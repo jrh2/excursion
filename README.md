@@ -1,8 +1,10 @@
 <!-- Project title -->
-#Excursion
+Excursion
+=========
 
 <!-- Project description -->
-#***Why this Project?***
+Why this Project?
+-----------------
 
 I made this webpage as a practice project in Codeacademy's online GitHub course! This was to practice using GitHub Pages, as well as using all of the git tools to add, commit, and push to remote repositories. It also helped strengthen my HTML skills. 
 
